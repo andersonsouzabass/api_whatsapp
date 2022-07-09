@@ -125,7 +125,7 @@ curl --location --request POST 'localhost:3333/message/text?key=INSTANCE_KEY_HER
 --data-urlencode 'message=Hello World'
 ```
 
-Veja todas as rotas aqui [src/api/routes](https://github.com/salman0ansari/whatsapp-api-nodejs/tree/main/src/api/routes)
+Veja todas as rotas aqui [src/api/routes](https://https://github.com/andersonsouzabass/api_whatsapp/tree/main/src/api/routes)
 
 # Nota
 
